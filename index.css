@@ -1,0 +1,39 @@
+body {
+    background-image: url('pexels-norbert-kundrak-1677533.JPG');
+}
+
+p {
+    color: white;
+    font-size: medium;
+    font-family: cursive;
+}
+
+button {
+    font-size: 20px;
+    padding: 10px;
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   }
+   
+   button:hover, li:hover {
+    cursor: pointer; 
+   }
+   
+   ul {
+    width: 300px;
+    list-style: none;
+    padding-left: 20px;
+   }
+   
+   li {
+    color: white;
+    text-align: center;
+    font-size: 26px;
+    background-color:#ED8728;
+    padding: 20px;
+    margin-bottom: 10px;
+   }
+   
+   .original {
+    background-color: #A25B00;
+   }
